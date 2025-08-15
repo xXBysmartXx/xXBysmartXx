@@ -30,7 +30,7 @@ Mi objetivo es integrar habilidades técnicas y de marketing para **crear soluci
 ---
 
 ## 📫 Conecta conmigo
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin](https://media.licdn.com/dms/image/v2/D4E03AQH9auB9eG3GKw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1678498701911?e=1758153600&v=beta&t=N1mNgODMRZy0o5ueEpG7yihVaHH7gFk68j31NammMSg))](https://www.linkedin.com/in/marco-aguagallo-marketing/)  
+[![LinkedIn]([[https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin](https://media.licdn.com/dms/image/v2/D4E03AQH9auB9eG3GKw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1678498701911?e=1758153600&v=beta&t=N1mNgODMRZy0o5ueEpG7yihVaHH7gFk68j31NammMSg)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/500px-LinkedIn_logo_initials.png))](https://www.linkedin.com/in/marco-aguagallo-marketing/)  
 
 ---
 ⭐️ _"Me gusta pensar en el marketing como un puente que une las ideas con las personas."_  
